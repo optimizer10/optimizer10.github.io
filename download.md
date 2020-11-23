@@ -16,8 +16,8 @@ Latest version <span class="removed">v1.1</span>
 </p>
 Compatible with Windows 10 2004 May 2020 Update.
 <ul>
-<li><a href="/tags/#releases">Download 64-bit</a></li>
-<li><a href="/tags/#releases">Download 32-bit</a></li>
+<li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.1/Optimizer10-v1.1-x64.exe">Download 64-bit</a></li>
+<li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.1/Optimizer10-v1.1-x86.exe">Download 32-bit</a></li>
 </ul>
 
 Previous versions
@@ -27,6 +27,6 @@ Previous versions
 </p>
 Compatible with Windows 10 1903 May 2019 Update.
 <ul>
-<li><a href="/tags/#releases">Download 64-bit</a></li>
-<li><a href="/tags/#releases">Download 32-bit</a></li>
+<li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.0/Optimizer10-v1.0-x64.exe">Download 64-bit</a></li>
+<li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.0/Optimizer10-v1.0-x86.exe">Download 32-bit</a></li>
 </ul>
