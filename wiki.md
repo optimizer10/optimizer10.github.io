@@ -16,6 +16,7 @@ This page is still under construction.
 Optimizer10 wiki lets you deepen your knowledge about how exactly it works, and if you don't want to use it allows you to optimize your Windows 10 installation on your own.
 
 - Windows Apps
+1. <a href="/wiki/remove-windows-apps">Remove Windows Built-in Apps</a>
 - Windows Security
 1. <a href="/wiki/disable-windows-defender">Disable Windows Defender</a>
 2. <a href="/wiki/disable-smartscreen">Disable SmartScreen</a>
