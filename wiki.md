@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wiki
+description: Optimizer10 wiki lets you deepen your knowledge about how it works, and how to optimize your Windows 10 installation on your own.
 ---
 
 <style>
@@ -9,4 +10,18 @@ title: Wiki
   }
 </style>
 
-Optimizer10 wiki is still under construction.
+<p class="message">
+This page is still under construction.
+</p>
+Optimizer10 wiki lets you deepen your knowledge about how exactly it works, and if you don't want to use it allows you to optimize your Windows 10 installation on your own.
+
+- Windows Apps
+- Windows Security
+1. <a href="/wiki/disable-windows-defender">Disable Windows Defender</a>
+- Windows Privacy
+- Taskbar
+- Windows Update
+- Telemetry and Data Collection
+- Content Delivery
+- Xbox
+- Misc
