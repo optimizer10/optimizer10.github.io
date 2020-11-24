@@ -18,6 +18,7 @@ Optimizer10 wiki lets you deepen your knowledge about how exactly it works, and 
 - Windows Apps
 - Windows Security
 1. <a href="/wiki/disable-windows-defender">Disable Windows Defender</a>
+2. <a href="/wiki/disable-smartscreen">Disable SmartScreen</a>
 - Windows Privacy
 - Taskbar
 - Windows Update
