@@ -23,6 +23,7 @@ html {
 }
 
 body {
+  word-break: break-word;
   color: $body-color;
   background-color: $body-bg;
   -webkit-text-size-adjust: 100%;
