@@ -22,6 +22,7 @@ Optimizer10 wiki lets you deepen your knowledge about how exactly it works, and 
 2. <a href="/wiki/disable-smartscreen">Disable SmartScreen</a>
 - Windows Privacy
 - Taskbar
+1. <a href="/wiki/remove-cortana">Remove Cortana</a>
 - Windows Update
 - Telemetry and Data Collection
 - Content Delivery
