@@ -9,7 +9,18 @@ title: Download
   }
 </style>
 
-Latest version <span class="removed">v1.1</span>
+Latest version <span class="removed">v1.2</span>
+======
+<p class="message">
+<a href="/release-v-1-2/">Release v1.2</a> - 20H2 & 20H1 in one release
+</p>
+Compatible with Windows 10 2009 (20H2) and Windows 10 2004 (20H1).
+<ul>
+<li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.2/Optimizer10-v1.2-x64.exe">Download 64-bit</a></li>
+<li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.2/Optimizer10-v1.2-x86.exe">Download 32-bit</a></li>
+</ul>
+
+Previous versions
 ======
 <p class="message">
 <a href="/release-v-1-1/">Release v1.1</a> - May 2020 Update
@@ -19,9 +30,6 @@ Compatible with Windows 10 2004 May 2020 Update.
 <li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.1/Optimizer10-v1.1-x64.exe">Download 64-bit</a></li>
 <li><a href="https://github.com/optimizer10/optimizer10.github.io/releases/download/v1.1/Optimizer10-v1.1-x86.exe">Download 32-bit</a></li>
 </ul>
-
-Previous versions
-======
 <p class="message">
 <a href="/release-v-1-0/">Release v1.0</a> - Initial release
 </p>
